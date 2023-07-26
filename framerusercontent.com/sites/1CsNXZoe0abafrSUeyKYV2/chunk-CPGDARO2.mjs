@@ -1,0 +1,2 @@
+var a=t=>({bodyClassName:"framer-body-HSbOzrRPO",breakpoints:[{hash:"1r7bnbt",mediaQuery:"(min-width: 1440px)"},{hash:"mm036g",mediaQuery:"(min-width: 810px) and (max-width: 1439px)"},{hash:"1q4v7wr",mediaQuery:"(max-width: 809px)"}],elements:{},title:"Events - Padora",viewport:"width=device-width"}),n=a,o=1,d={exports:{default:{type:"variable",annotations:{framerContractVersion:"1"}},metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{n as a,o as b,d as c};
+//# sourceMappingURL=chunk-CPGDARO2.mjs.map
